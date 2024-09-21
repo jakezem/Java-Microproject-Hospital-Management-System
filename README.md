@@ -1,2 +1,6 @@
 # Java-Microproject-Hospital-Management-System
 A simple project on Hospital Management System. Frontend: Swing, Backend: MySQL
+
+This report introduces the development of a Hospital Management System (HMS), aimed at enhancing administrative and patient-centric operations within healthcare facilities. Implemented using Java Swing, the system boasts a user-friendly interface facilitating login options for both administrators and patients.
+Upon admin login, a dedicated dashboard offers functionalities including staff management, appointment scheduling, and staff availability tracking. Patients, upon login, gain access to a personalized portal for updating information and managing appointments. The system integrates a MySQL database for robust data storage and retrieval, with meticulous error handling ensuring data integrity.
+Workflow and data flow diagrams depict the system's sequential operations and data interactions. The HMS adheres to coding best practices, fulfilling project requirements for creating, editing, deleting, and viewing appointments. Its development serves as a foundational platform poised for further customization and enhancement based on user feedback, promising efficient hospital operations and improved patient care.
